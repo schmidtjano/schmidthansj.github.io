@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /contact.html
+Disallow: /contact-success.html
+Sitemap: http://stahlschmidt-inc.com/hjs/sitemap.xml
